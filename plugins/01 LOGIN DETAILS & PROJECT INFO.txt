@@ -1,0 +1,15 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: cbsphp**
+
+**Developed by Fix8**
+
+**Recommended PHP Version 7.4**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
+
+**Driver's Electrician Service ID can be found under Electricians Section**
